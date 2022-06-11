@@ -1,0 +1,31 @@
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\bin\Debug\OvceSistem.exe.config
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\bin\Debug\OvceSistem.exe
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\bin\Debug\OvceSistem.pdb
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.csprojAssemblyReference.cache
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.Form1.resources
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.Properties.Resources.resources
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.Unesi_ovcu.resources
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.csproj.GenerateResource.cache
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.csproj.CoreCompileInputs.cache
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.exe
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.pdb
+c:\users\stewki.desktop-enak1eo\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.PrikaziOvce.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem\OvceSistem\obj\Debug\OvceSistem.Jagnjenja.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\bin\Debug\OvceSistem.exe.config
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\bin\Debug\OvceSistem.exe
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\bin\Debug\OvceSistem.pdb
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.Form1.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.Jagnjenja.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.PrikaziOvce.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.Properties.Resources.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.Unesi_ovcu.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.csproj.GenerateResource.cache
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.csproj.CoreCompileInputs.cache
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.exe
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.pdb
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.MainForm.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.Ovce.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.JagnjenjaUC.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.DodajJagnjenje.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.Podesavanja.resources
+C:\Users\StewKI.DESKTOP-ENAK1EO\source\repos\OvceSistem - копија\OvceSistem\obj\Debug\OvceSistem.csprojAssemblyReference.cache
